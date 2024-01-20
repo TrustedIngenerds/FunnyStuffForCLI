@@ -1,0 +1,2 @@
+cat ~/.su_Image.txt | lolcat -a -s 30 -d 6
+sudo su
